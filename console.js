@@ -14,7 +14,7 @@ c.style.opacity = "0.5";
 				c.style.opacity = "0.4"
 				}, 300)
 		},31000)
-	}, 500);
+	}, 1000);
 	setTimeout(
 		function(){
 		document.body.style.background = "black";
